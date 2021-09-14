@@ -13,4 +13,5 @@ function myself(firstname, lastname, age, subject) {
 }
 
 
-let Adriann = new Student("Adrian" , "Sian", "20", "ICS2609");
+let Adriann = new myself("Adrian" , "Sian", "20", "ICS2609");
+console.log(Adriann)
