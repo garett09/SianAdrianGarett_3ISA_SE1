@@ -11,3 +11,6 @@ function myself(firstname, lastname, age, subject) {
         console.log(`I am enrolled in ${this.subject}   `)
     }
 }
+
+
+let Adriann = new Student("Adrian" , "Sian", "20", "ICS2609");
